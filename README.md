@@ -6,7 +6,7 @@ Model Master is a web application that allows users to visualize two OpenCV algo
 
 To run the Model Master project, ensure that you have the following installed:
 
-* Python 3.x
+* Python 3.6 or later
 * Flask
 * OpenCV
 * HTML, CSS, and JavaScript compatible web browser
